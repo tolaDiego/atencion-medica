@@ -1,0 +1,14 @@
+.link_logo_DF{
+    display: flex;
+    color: #fff;
+   align-items: center; 
+    text-decoration: none;
+}
+.MuiButtonBase-root>a{
+    text-decoration: none;
+    color: #fff;
+}
+.MuiTypography-root>a{
+    text-decoration: none;
+    color: #007aff;
+}
